@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "LifeQuest",
+      "hasCanvas": false,
+      "bodyTextLen": 1414,
+      "bodyTextHash": "705c90e5d6f7d97ba3f4b8b12c5a192056cc98dc20c6cf93b90b8235802a7ec2",
+      "bodyTextPrefix": "LIFEQUEST 0 CS0 CG Silver stays on this device. Nothing is sent ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "LifeQuest",
+      "hasCanvas": false,
+      "bodyTextLen": 1359,
+      "bodyTextHash": "021e8577dcbee207434ad6b24f4e25b296d425318b0a4b3478e47b89e66bc638",
+      "bodyTextPrefix": "LIFEQUEST 0 CS0 CG Today Formula Ledger Shop Vault Rules DAILY C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
